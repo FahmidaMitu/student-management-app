@@ -38,7 +38,7 @@ student-management-app/
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/student-management-app.git](https://github.com/your-username/student-management-app.git)
+   git clone [https://github.com/FahmidaMitu/student-management-app.git](https://github.com/FahmidaMitu/student-management-app.git)
    cd student-management-app
    ```
 
@@ -52,6 +52,7 @@ student-management-app/
    npm run dev
    ```
 
-## Screenshots & Demo Video
+## 🔗 Live Demo & Repository
 
-- **Project Screenshots & Demo Video (Google Drive)**: [View Screenshots & Demo](https://drive.google.com/your-folder-link-here)
+- **Live Website:** [https://student-management-app-mitu11.vercel.app/]
+- **GitHub Repository:** [https://github.com/FahmidaMitu/student-management-app.git]
